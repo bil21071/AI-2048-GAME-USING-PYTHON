@@ -1,2 +1,2 @@
-# AI-2048-GAME-USING-PYTHON
-AI 2048 game using Python that uses Monte carlo Algorithm.
+# 2048_with_GUI_AI
+#this is a Ai game using 2048 that makes use of monte carlo algorithm and run the main_with gui folder in this .
